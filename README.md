@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Gayatri Pisya</h1>
 <h3 align="center">A passionate Web developer & Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20views&color=0e75b6&style=flat" alt="gayatripisya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20views&color=0e75b6&style=flat" alt="gayatripisya" /> </p>
 
 - 🎓 Computer Science Engineering student with a passion for web development and design. **I love creating innovative web pages that combine functionality with aesthetics.**
 
