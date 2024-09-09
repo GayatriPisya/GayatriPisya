@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I'm Gayatri Pisya</h1>
-<h3 align="center">Passionate Web Developer | Software Engineer | Lifelong Learner</h3>
+<h3 align="center">Passionate Web Developer | Software Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6a1b9a&style=flat" alt="Profile Views" />
