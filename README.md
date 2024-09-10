@@ -59,7 +59,6 @@ I'm a **Computer Science Engineering** student with a deep passion for technolog
   <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framework-SpringBoot-green?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-SQLite-lightblue?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
