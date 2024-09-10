@@ -1,68 +1,82 @@
-<h1 align="center">Hello! 👋 I'm Gayatri Pisya</h1>
-<h3 align="center">Passionate Web Developer | Software Engineer </h3>
+<h1 align="center">Hello, I'm Gayatri Pisya! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6a1b9a&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A1B9A&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;AI+Explorer;Prompt+Engineer;Tech+Enthusiast;Aspiring+Innovator" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development%20%26%20Design-blueviolet" alt="Focus" />
+  <a href="mailto:gayatripisya@gmail.com"><img src="https://img.shields.io/badge/Email-gayatripisya%40gmail.com-blueviolet" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/gayatri-pisya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Gayatri%20Pisya-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/gayatri_pisya" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40gayatri_pisya-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6A1B9A&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen" alt="Status">
 </p>
 
 ---
 
-### 💼 About Me
-- 🎓 **Computer Science Engineering** student with a passion for web development, focusing on creating user-friendly, visually appealing, and functional web applications.
-- 🚀 Actively learning and adapting to new technologies to stay ahead in the fast-evolving tech landscape.
-- 🌐 Check out my projects on [GitHub](https://github.com/GayatriPisya).
-- 📫 Feel free to reach me at: **gayatripisya@gmail.com**.
+## 🌱 About Me
+I'm a **Computer Science Engineering** student with a deep passion for technology, innovation, and learning. As a **Full Stack Developer** and **Prompt Engineer**, I'm always pushing the boundaries of **AI** and **Web Development** to bring innovative solutions into real-world applications.
+
+- 🔍 **Exploring**: AI + Software Development.
+- 🚀 **Building**: Responsive web applications with **Angular**, **Spring Boot**, and **Java**.
+- 🌟 **Skills**: Full Stack Development, AI Prompt Crafting.
+- 📚 **Currently Learning**: New technologies and innovations.
 
 ---
 
-### 💻 Tech Stack & Tools
-#### Languages:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-</p>
+## 💼 Skills & Technologies
 
-#### Web Development:
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
-</p>
+### 💻 Full Stack Development:
+- **Frontend**: HTML5, CSS3, JavaScript, Angular, TypeScript, Bootstrap
+- **Backend**: Java, Spring Boot, Python, REST APIs
+- **Databases**: MySQL, SQLite
 
-#### Databases:
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-</p>
-
-#### Version Control:
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
+### 🧠 AI & Prompt Engineering:
+- **Crafting optimized AI prompts** for smooth interaction with AI tools.
+- **Bridging AI and Full Stack Development** to create smarter applications.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatripisya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 💬 How I Can Help:
+- Building scalable **back-end APIs** with **Spring Boot**.
+- Creating **dynamic UIs** using **Angular** and modern web technologies.
+- Integrating **AI** to enhance web and software solutions.
+
+---
+
+## 🛠️ Tools & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Angular-red?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framework-SpringBoot-green?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-SQLite-lightblue?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect!
-<p align="left">
-  <a href="https://twitter.com/gayatri_pisya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/gayatri-pisya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=prussian" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatripisya&theme=prussian" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripisya&layout=compact&theme=prussian" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  💡 <strong>"The more I learn, the more I realize how much I don't know."</strong>
 </p>
