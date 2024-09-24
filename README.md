@@ -12,7 +12,6 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
   I'm a passionate BTech student dedicated to mastering the art of Full Stack Development. My journey in web development is fueled by my eagerness to create dynamic and efficient applications. I'm currently honing my skills in <strong>Angular</strong>, <strong>Spring Boot</strong>, and <strong>MySQL</strong>, and I'm excited to take on collaborative projects that challenge my abilities.
@@ -32,8 +31,9 @@
   <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a> 
   <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/></a> 
   <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/></a> 
+  <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a> 
   <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></a> 
-    <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a> 
+  <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a> 
   <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/></a> 
   <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></a> 
   <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a> 
