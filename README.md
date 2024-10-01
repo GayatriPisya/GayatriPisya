@@ -64,7 +64,7 @@
 </p> 
 
 <p align="center"> 
-  <a href="https://gayatripisya.dev/portfolio" style="font-weight: bold; font-size: 18px;">🌐 Check out my portfolio</a> 
+  <a href="https://gayatripisya.vercel.app/" style="font-weight: bold; font-size: 18px;">🌐 Check out my portfolio</a> 
 </p>
 
 <p align="center"> 
