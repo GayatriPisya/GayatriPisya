@@ -42,8 +42,8 @@ I am an aspiring **Full Stack Developer** currently pursuing my BTech degree. I 
 
 ### 📈 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatripisya&theme=radical&hide_border=true" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatripisya&theme=radical&hide_border=true"  alt="GitHub Streak Stats" />
 </div>
 
 <p align="center">
