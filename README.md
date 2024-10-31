@@ -64,3 +64,9 @@ I am an aspiring **Full Stack Developer** currently pursuing a BTech in Computer
 <p align="center">
   <a href="https://gayatripisya.vercel.app/" style="display: inline-block; background-color: #4A90E2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🌐 Explore My Portfolio</a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.Z8DQIHsvEhd7AkJYXc86SwHaHa?rs=1&pid=ImgDetMain" alt="Animated Image" />
+</p>
