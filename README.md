@@ -68,5 +68,5 @@ I am an aspiring **Full Stack Developer** currently pursuing a BTech in Computer
 ---
 
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.Z8DQIHsvEhd7AkJYXc86SwHaHa?rs=1&pid=ImgDetMain" alt="Animated Image" />
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Animated Image" />
 </p>
