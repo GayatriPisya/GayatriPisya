@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6A1B9A&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" alt="Focus on Full Stack Development">
-  <a href="https://gayatripisya.vercel.app/" style="display: inline-block; background-color: #4A90E2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🌐 Explore My Portfolio</a>
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blueviolet?style=flat-square" alt="View My Portfolio" href="https://gayatripisya.vercel.app/" />
 </p>
 
 ---
