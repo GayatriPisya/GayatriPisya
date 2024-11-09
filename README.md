@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6A1B9A&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" alt="Focus on Full Stack Development">
-  <img src="https://img.shields.io/badge/Status-BTech%20Student-orange?style=flat-square" alt="Status: BTech Student">
+  <a href="https://gayatripisya.vercel.app/" style="display: inline-block; background-color: #4A90E2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🌐 Explore My Portfolio</a>
 </p>
 
 ---
@@ -60,12 +60,6 @@ I am an aspiring **Full Stack Developer** currently pursuing a BTech in Computer
   <a href="https://x.com/Gayatri_pisya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="30" /></a>
   <a href="https://github.com/gayatripisya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
 </p>
-
-<p align="center">
-  <a href="https://gayatripisya.vercel.app/" style="display: inline-block; background-color: #4A90E2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">🌐 Explore My Portfolio</a>
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Animated Image" />
