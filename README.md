@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6A1B9A&style=flat-square" alt="Profile Views"  height="30">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" alt="Focus on Full Stack Development"  height="30">
+  <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6A1B9A&style=flat-square" alt="Profile Views"  height="28">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" alt="Focus on Full Stack Development"  height="28">
  <a href="https://gayatripisya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blueviolet?style=flat-square" alt="View My Portfolio"  height="30" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blueviolet?style=flat-square" alt="View My Portfolio"  height="28" />
   </a>
 </p>
 
