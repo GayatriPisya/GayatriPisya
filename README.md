@@ -1,29 +1,30 @@
-<h1 align="center">👋 Hello! I'm <span style="color:#6A1B9A;">Gayatri</span></h1>
+# 👋 Hello! I'm [Gayatri Pisya](https://www.linkedin.com/in/gayatri-pisya/)
+
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A1B9A&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Developer;Tech+Enthusiast;CSE+Student;Prompt+Engineer)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A1B9A&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Developer;Tech+Enthusiast;CSE+Student;Prompt+Engineer" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6A1B9A&style=flat-square" alt="Profile Views"  height="28">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" alt="Focus on Full Stack Development"  height="28">
- <a href="https://gayatripisya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blueviolet?style=flat-square" alt="View My Portfolio"  height="28" />
+  <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6A1B9A&style=flat-square" alt="Profile Views" height="28">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" alt="Focus on Full Stack Development" height="28">
+  <a href="https://gayatripisya.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blueviolet?style=flat-square" alt="View My Portfolio" height="28" />
   </a>
 </p>
 
 ---
 
-### 🌟 About Me
-I am an aspiring **Full Stack Developer** currently pursuing a BTech in Computer Science. Passionate about transforming ideas into impactful digital solutions, I'm constantly expanding my skills in modern web technologies and back-end frameworks.
+## 📌 About Me
 
-- 🔍 **Learning**: Exploring new technologies and frameworks to strengthen my development capabilities.
-- 🛠️ **Building**: Dedicated to creating responsive, user-friendly web applications.
-- 🌱 **Collaborating**: Excited to work on innovative projects that promote growth and teamwork.
+I am a passionate **Full Stack Developer** and a **Computer Science Engineering (CSE)** student. I am driven by the goal of transforming ideas into impactful digital solutions through modern web technologies. I am always eager to expand my knowledge and collaborate on exciting projects.
+
+- 🔍 **Learning**: Constantly exploring new technologies and frameworks.
+- 🛠️ **Building**: Dedicated to creating responsive, scalable, and user-centric applications.
+- 🌱 **Collaborating**: Excited to contribute to innovative projects and foster teamwork in tech communities.
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="32"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="32"/>
@@ -43,7 +44,10 @@ I am an aspiring **Full Stack Developer** currently pursuing a BTech in Computer
 
 ---
 
-### 📈 GitHub Statistics
+## 📈 GitHub Statistics
+
+Here are some statistics showcasing my contributions on GitHub:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatripisya&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
@@ -55,7 +59,9 @@ I am an aspiring **Full Stack Developer** currently pursuing a BTech in Computer
 
 ---
 
-### 📫 Let's Connect!
+## 📬 Connect with Me
+
+
 <p align="center">
   <a href="mailto:gayatripisya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
   <a href="https://www.linkedin.com/in/gayatri-pisya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
