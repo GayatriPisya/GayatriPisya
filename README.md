@@ -46,7 +46,7 @@ I am a passionate **Full Stack Developer** and a **Computer Science Engineering 
 
 ## 📈 GitHub Statistics
 
-Here are some statistics showcasing my contributions on GitHub:
+ my contributions on GitHub:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
