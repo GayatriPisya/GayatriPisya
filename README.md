@@ -14,16 +14,15 @@
 
 ## 📌 About Me
 
-I am a passionate **Full Stack Developer** and a **Computer Science Engineering (CSE)** student. I am driven by the goal of transforming ideas into impactful digital solutions through modern web technologies. I am always eager to expand my knowledge and collaborate on exciting projects.
+I am a **Full Stack Developer** and a **Computer Science Engineering (CSE)** student. My goal is to transform ideas into meaningful digital solutions using modern web technologies. I am passionate about exploring new technologies, building scalable applications, and collaborating on exciting projects that make an impact.
 
-- 🔍 **Learning**: Constantly exploring new technologies and frameworks.
-- 🛠️ **Building**: Dedicated to creating responsive, scalable, and user-centric applications.
-- 🌱 **Collaborating**: Excited to contribute to innovative projects and foster teamwork in tech communities.
+- 🔍 **Learning**: Always discovering new technologies and improving my skills.
+- 🛠️ **Building**: Developing responsive, scalable, and user-centric applications.
+- 🌱 **Collaborating**: Eager to work on innovative projects and collaborate in tech communities.
 
 ---
 
 ## 💻 Tech Stack
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="32"/>
@@ -46,7 +45,7 @@ I am a passionate **Full Stack Developer** and a **Computer Science Engineering 
 
 ## 📈 GitHub Statistics
 
- my contributions on GitHub:
+Here are my contributions on GitHub:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -61,6 +60,7 @@ I am a passionate **Full Stack Developer** and a **Computer Science Engineering 
 
 ## 📬 Connect with Me
 
+Feel free to connect with me through any of the platforms below!
 
 <p align="center">
   <a href="mailto:gayatripisya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
