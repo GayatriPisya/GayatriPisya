@@ -2,7 +2,9 @@
   <h1 align="center"><strong>👋 Hello! I'm Gayatri Pisya</strong></h1>
 </p>
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A1B9A&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Developer;Tech+Enthusiast;CSE+Student;Prompt+Engineer)
+<p align="center">
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A1B9A&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Developer;Tech+Enthusiast;CSE+Student;Prompt+Engineer)
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayatripisya&label=Profile%20Views&color=6A1B9A&style=flat-square" alt="Profile Views" height="28">
