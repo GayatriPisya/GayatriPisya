@@ -1,5 +1,5 @@
-<p align="center">
-  <h1><strong>👋 Hello! I'm Gayatri Pisya</strong></h1>
+<p >
+  <h1 align="center"><strong>👋 Hello! I'm Gayatri Pisya</strong></h1>
 </p>
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A1B9A&center=true&vCenter=true&width=650&height=70&lines=Full+Stack+Developer;Tech+Enthusiast;CSE+Student;Prompt+Engineer)
