@@ -52,13 +52,14 @@ I am a **Full Stack Developer** and a **Computer Science Engineering (CSE)** stu
 Here are my contributions on GitHub:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=gayatripisya&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=white&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=gayatripisya&theme=white&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripisya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripisya&layout=compact&theme=white&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
