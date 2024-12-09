@@ -1,5 +1,5 @@
 <p >
-  <h1 align="center"><strong>👋 Hello! I'm Gayatri Pisya</strong></h1>
+  <h1 align="center"><strong>👋 Hello! I'm Pisya Gayatri </strong></h1>
 </p>
 
 <p align="center">
