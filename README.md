@@ -61,10 +61,10 @@ Here are my contributions on GitHub:
 </p>
 
 
-## ⏳ Contribution Time
+## 💻 Keep Coding
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/59f849b4-8695-4e52-a4ae-e9e65fa60fba.svg" alt="WakaTime Stats" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="500" />
 </p>
 
 
