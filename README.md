@@ -60,9 +60,7 @@ Here are my contributions on GitHub:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripisya&layout=compact&theme=white&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gayatripisya&theme=white&no-frame=true&title=Repositories,Stars,Commit,Followers" alt="GitHub Trophy" />
-</p>
+
 
 ## 📬 Connect with Me
 
