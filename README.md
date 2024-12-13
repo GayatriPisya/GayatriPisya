@@ -64,7 +64,6 @@ Here are my contributions on GitHub:
   <img src="https://github-profile-trophy.vercel.app/?username=gayatripisya&theme=white&no-frame=true&title=Repositories,Stars,Commit,Followers" alt="GitHub Trophy" />
 </p>
 
-
 ## 📬 Connect with Me
 
 Feel free to connect with me through any of the platforms below!
