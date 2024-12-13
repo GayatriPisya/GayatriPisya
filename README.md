@@ -61,11 +61,6 @@ Here are my contributions on GitHub:
 </p>
 
 
-## 💻 Keep Coding
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="500" />
-</p>
 
 
 
@@ -80,6 +75,8 @@ Feel free to connect with me through any of the platforms below!
   <a href="https://github.com/gayatripisya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
 </p>
 
+## 💻 Keep Coding
+
 <p align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Animated Image" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="500" />
 </p>
