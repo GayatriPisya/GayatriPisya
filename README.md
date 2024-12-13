@@ -61,7 +61,13 @@ Here are my contributions on GitHub:
 </p>
 
 
----
+## ⏳ Contribution Time
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/59f849b4-8695-4e52-a4ae-e9e65fa60fba.svg" alt="WakaTime Stats" />
+</p>
+
+
 
 ## 📬 Connect with Me
 
