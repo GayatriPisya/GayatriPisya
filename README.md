@@ -53,7 +53,7 @@ Here are my contributions on GitHub:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=white&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=gayatripisya&theme=white&hide_border=true" alt="GitHub Streak Stats" />
+ <img src="https://streak-stats.demolab.com?user=gayatripisya&theme=white&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <p align="center">
