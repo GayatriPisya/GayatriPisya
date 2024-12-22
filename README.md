@@ -25,7 +25,6 @@ I am a **Full Stack Developer** and a **Computer Science Engineering (CSE)** stu
 - 🌱 **Collaborating**: Eager to work on innovative projects and collaborate in tech communities.
 
 ---
-
 ## 💻 Tech Stack
 
 <p align="center">
