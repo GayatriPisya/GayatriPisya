@@ -14,7 +14,6 @@
 </p>
 ---
 ## 📌 About Me
-
 I am a **Full Stack Developer** and a **Computer Science Engineering (CSE)** student. My goal is to transform ideas into meaningful digital solutions using modern web technologies. I am passionate about exploring new technologies, building scalable applications, and collaborating on exciting projects that make an impact.
 
 - 🔍 **Learning**: Always discovering new technologies and improving my skills.
