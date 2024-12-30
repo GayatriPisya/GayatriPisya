@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blueviolet?style=flat-square" alt="View My Portfolio" height="28" />
   </a>
 </p>
+
 ---
+
 ## 📌 About Me
 I am a **Full Stack Developer** and a **Computer Science Engineering (CSE)** student. My goal is to transform ideas into meaningful digital solutions using modern web technologies. I am passionate about exploring new technologies, building scalable applications, and collaborating on exciting projects that make an impact.
 
