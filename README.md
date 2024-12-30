@@ -15,15 +15,9 @@
 
 ---
 
-## 📌 About Me
-I am a **Full Stack Developer** and a **Computer Science Engineering (CSE)** student. My goal is to transform ideas into meaningful digital solutions using modern web technologies. I am passionate about exploring new technologies, building scalable applications, and collaborating on exciting projects that make an impact.
-
-- 🔍 **Learning**: Always discovering new technologies and improving my skills.
-- 🛠️ **Building**: Developing responsive, scalable, and user-centric applications.
-- 🌱 **Collaborating**: Eager to work on innovative projects and collaborate in tech communities.
+I'm a full-stack developer passionate about building applications that are both innovative and user-friendly. I thrive on solving challenges and creating seamless experiences for users.
 
 ---
-## 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="32"/>
@@ -44,7 +38,6 @@ I am a **Full Stack Developer** and a **Computer Science Engineering (CSE)** stu
 
 ---
 
-## 📈 GitHub Statistics
 
 Here are my contributions on GitHub:
 
@@ -59,8 +52,6 @@ Here are my contributions on GitHub:
 
 
 
-## 📬 Connect with Me
-
 Feel free to connect with me through any of the platforms below!
 
 <p align="center">
@@ -70,7 +61,6 @@ Feel free to connect with me through any of the platforms below!
   <a href="https://github.com/gayatripisya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
 </p>
 
-## 💻 Keep Coding
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="500" />
