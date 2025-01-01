@@ -51,7 +51,6 @@ Here are my contributions on GitHub:
 </p>
 
 
-
 Feel free to connect with me through any of the platforms below!
 
 <p align="center">
