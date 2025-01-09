@@ -49,7 +49,6 @@ Here are my contributions on GitHub:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripisya&layout=compact&theme=white&hide_border=true" alt="Top Languages" />
 </p>
-
 Feel free to connect with me through any of the platforms below!
 <p align="center">
   <a href="mailto:gayatripisya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
