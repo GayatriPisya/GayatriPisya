@@ -38,7 +38,6 @@ I'm a full-stack developer passionate about building applications that are both 
 
 ---
 
-
 Here are my contributions on GitHub:
 
 <div align="center">
