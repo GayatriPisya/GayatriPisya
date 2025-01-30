@@ -54,7 +54,6 @@ Feel free to connect with me through any of the platforms below!
   <a href="https://x.com/Gayatri_pisya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="30" /></a>
   <a href="https://github.com/gayatripisya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="500" />
 </p>
