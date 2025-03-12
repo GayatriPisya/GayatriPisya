@@ -1,3 +1,5 @@
+![1730961643989](https://github.com/user-attachments/assets/cbfe86e8-da3c-43fb-be52-55bf012c7c92)
+
 ## <h1 align="center">👋 Hello! I'm Pisya Gayatri </h1>
 
 <p align="center">
