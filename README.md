@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/35f5fc52-e313-47bc-bb47-6832348530c1)
-
 ## <h1 align="center">👋 Hello! I'm Pisya Gayatri </h1>
 
 <p align="center">
