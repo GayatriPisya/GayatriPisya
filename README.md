@@ -54,7 +54,6 @@ I am a dedicated **Full-Stack Developer** passionate about creating seamless dig
 ---
 
 ### 🌍 Let's Connect
-
 <p align="center">
   <a href="mailto:gayatripisya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
   <a href="https://www.linkedin.com/in/gayatri-pisya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
