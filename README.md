@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square" alt="Focus on Full Stack Development" height="25">
   <a href="https://gayatripisya.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blueviolet?style=flat-square" alt="View My Portfolio" height="25" />
-  </a>
+</a>
 </p>
 
 ---
