@@ -37,6 +37,7 @@ I am a dedicated **Full-Stack Developer** passionate about creating seamless dig
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="32"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="32"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="32"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" height="32"/>
 </p>
 
 ---
@@ -60,6 +61,7 @@ I am a dedicated **Full-Stack Developer** passionate about creating seamless dig
   <a href="https://www.linkedin.com/in/gayatri-pisya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
   <a href="https://x.com/Gayatri_pisya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="30" /></a>
   <a href="https://github.com/gayatripisya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
+  <a href="https://gitlab.com/gayatripisya"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" height="30" /></a>
 </p>
 
 <p align="center">
