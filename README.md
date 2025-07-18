@@ -48,7 +48,6 @@ I am a dedicated **Full-Stack Developer** passionate about creating seamless dig
   <img src="https://github-readme-stats.vercel.app/api?username=gayatripisya&show_icons=true&theme=white&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatripisya&theme=white&hide_border=true" alt="GitHub Streak Stats" />
 </div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripisya&layout=compact&theme=white&hide_border=true" alt="Top Languages" />
 </p>
@@ -63,7 +62,6 @@ I am a dedicated **Full-Stack Developer** passionate about creating seamless dig
   <a href="https://github.com/gayatripisya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
   <a href="https://gitlab.com/gayatripisya"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" height="30" /></a>
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="500" />
 </p>
