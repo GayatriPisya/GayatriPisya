@@ -43,7 +43,7 @@ I'm continuously expanding my technical knowledge while gaining practical exposu
 
 ## 🎓 Education
 
-### 🎓 Bachelor of Technology – Computer Science Engineering
+###  Bachelor of Technology – Computer Science Engineering
 
 **Centurion University of Technology and Management**
 
